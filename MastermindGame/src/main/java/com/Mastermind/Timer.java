@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.Mastermind;
 
 public class Timer {
     private long startTime;

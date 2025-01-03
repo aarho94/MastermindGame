@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.Mastermind;
 
 public class DifficultyLevel {
     private String level;

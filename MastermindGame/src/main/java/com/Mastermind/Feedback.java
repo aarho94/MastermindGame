@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.Mastermind;
 
 public class Feedback {
     private final int correctNumbers;

@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.Mastermind;
 
 public class MastermindGame {
     private final UserInterface ui;

@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.Mastermind;
 
 public class Guess {
     private final int[] guess;
