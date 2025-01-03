@@ -1,10 +1,9 @@
 # MastermindGame
-This is a game where a player tries to guess the number combinations. At the end of each attempt to guess the 4 number combinations, the computer will provide feedback whether the player had guess a number correctly, or/and a number and digit correctly. A player must guess the right number combinations within 10 attempts to win the game.
 # Mastermind Game - README
 
 ## Overview
 
-This repository contains a simple implementation of the *Mastermind* game, where the objective is to guess a secret pattern of numbers. The game features a user interface, a timer, and various levels of difficulty. The game also uses the random.org API to generate the target number pattern, adding an extra layer of randomness to the game.
+This repository contains a simple implementation of the *Mastermind* game, where the objective is to guess a secret pattern of numbers. This is a game where a player tries to guess the number combinations. At the end of each attempt to guess the 4 number combinations, the computer will provide feedback whether the player had guessed a number correctly, or/and a number and digit correctly. A player must guess the right number combinations within 10 attempts to win the game.
 
 ### Features:
 - **Target Number Generation**: The secret number combination is randomly generated using the random.org API, which ensures a high level of randomness.
@@ -34,18 +33,18 @@ The game uses the random.org API to generate random numbers, so an internet conn
 
 1. Clone the repository:
 
-Clone this repository to your local machine using the following command:
-git clone <repository-url>
+- Clone this repository to your local machine using the following command:
+/git clone <repository-url>/
 
-Navigate to the project folder:
-cd mastermind-game
+- Navigate to the project folder:
+/cd mastermind-game/
 
 2. Compile the Java classes:
 
-Open a terminal in the project directory and compile the Java files:
-javac com/Mastermind/*.java
+- Open a terminal in the project directory and compile the Java files:
+/javac com/Mastermind/*.java/
 
-This will compile all the classes in the com/Mastermind/ directory.
+- This will compile all the classes in the com/Mastermind/ directory.
 
 3. Run the Game:
 
