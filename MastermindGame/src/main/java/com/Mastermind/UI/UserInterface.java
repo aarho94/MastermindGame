@@ -1,4 +1,6 @@
-package com.Mastermind;
+package com.Mastermind.UI;
+
+import com.Mastermind.Models.Feedback;
 
 import java.util.Scanner;
 

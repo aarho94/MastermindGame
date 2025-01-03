@@ -1,4 +1,4 @@
-package com.Mastermind;
+package com.Mastermind.Models;
 
 public class Feedback {
     private final int correctNumbers;

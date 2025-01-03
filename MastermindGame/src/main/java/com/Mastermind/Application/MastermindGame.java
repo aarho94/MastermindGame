@@ -1,4 +1,8 @@
-package com.Mastermind;
+package com.Mastermind.Application;
+
+import com.Mastermind.Models.DifficultyLevel;
+import com.Mastermind.Models.Feedback;
+import com.Mastermind.UI.UserInterface;
 
 public class MastermindGame {
     private final UserInterface ui;

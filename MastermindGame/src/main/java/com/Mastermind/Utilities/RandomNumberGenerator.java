@@ -1,4 +1,4 @@
-package com.Mastermind;
+package com.Mastermind.Utilities;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

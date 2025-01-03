@@ -1,4 +1,4 @@
-package com.Mastermind;
+package com.Mastermind.Application;
 
 public class Timer {
     private long startTime;

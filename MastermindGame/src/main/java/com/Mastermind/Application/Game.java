@@ -1,4 +1,9 @@
-package com.Mastermind;
+package com.Mastermind.Application;
+
+import com.Mastermind.Models.DifficultyLevel;
+import com.Mastermind.Models.Feedback;
+import com.Mastermind.Models.Guess;
+import com.Mastermind.Utilities.RandomNumberGenerator;
 
 import java.util.ArrayList;
 import java.util.List;

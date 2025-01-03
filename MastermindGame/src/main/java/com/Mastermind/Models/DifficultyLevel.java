@@ -1,4 +1,4 @@
-package com.Mastermind;
+package com.Mastermind.Models;
 
 public class DifficultyLevel {
     private String level;
