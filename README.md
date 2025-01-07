@@ -38,7 +38,7 @@ The game uses the random.org API to generate random numbers, so an internet conn
 
 - Clone this repository to your local machine using the following command:
     ```bash
-   git clone <repository-url>
+   git clone https://github.com/aarho94/MastermindGame.git
 
 - Navigate to the project folder:
   ```bash
